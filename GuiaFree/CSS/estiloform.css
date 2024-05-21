@@ -1,0 +1,72 @@
+#nome, #sobrenome, #idade, #pais, #estado, #cidade, #estado{
+    margin-right: 3px;
+    float: right;
+    display: flex;
+}
+
+#nacionalidade{
+    margin-right: 141px;
+}
+
+p {
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif,;
+    font-size: 20px;
+    color: rgb(15, 15, 15);
+}
+
+input {
+    margin-left: ;
+    padding-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: rgb(15, 15, 15);
+}
+
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(15, 15, 15);
+    background-color: rgb(164, 238, 204);
+    border: none;
+    padding: 15px 15px;
+    width: 100%;
+    border-radius: 10px;
+    font-size: 15px;
+}
+    
+button:hover {
+    background-color: rgb(11, 109, 11);
+}  
+
+span {
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(15, 15, 15);
+}
+
+#dados {
+    background-color: white;
+    margin-top: 40px;
+    float: right;
+    display: flex;
+    margin-right: 10px;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+    border-color: black;
+    border: 2px solid;
+}
+
+th {
+    background-color: lightslategrey;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 60px;
+    border-radius: 10px;
+    border-color: black;
+    border: 2px solid;
+
+}

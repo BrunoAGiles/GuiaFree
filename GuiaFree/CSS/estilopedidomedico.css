@@ -1,0 +1,76 @@
+.folhapapel{
+    width:60%;
+    height:auto;
+    overflow:hidden;
+    background: #fdfdfd;
+    float:none;
+    margin:auto;
+    padding:35px;
+}
+
+.titulocentro{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 16px;
+    line-height: 1.5;
+    text-indent: 50px;
+    text-align: justify; 
+}
+
+#spaceletra{
+    white-space: 2px;
+}
+
+
+body{
+    white-space: 5px;
+    font-size: 14px;
+    background-color: rgba(22, 22, 22, 0.705);
+}
+
+select, option{
+    background-color: rgb(219, 216, 216);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.folhapapel, label{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+span.documento{
+    
+    display: inline-block;
+    margin-top: 8px;
+    width: 100px;
+    height: 100px;
+    padding: 70px;
+    border: 1px solid black;  
+    background-color: rgb(221, 228, 241); 
+}
+
+.conteiner{
+    display: flex;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    padding: 70px;
+    border: 1px solid black;  
+    background-color: rgb(221, 228, 241); 
+}
+
+.start{
+    display: center;
+    margin-top: 8px;
+    width: 100px;
+    height: 100px;
+    padding: 70px;
+    border: 1px solid black;  
+    background-color: rgb(221, 228, 241); 
+}
